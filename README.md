@@ -20,8 +20,10 @@ int main() {
         printf("Patch failed\n");
     }
     
-    // Write Original Hex
+    // Restore Original Hex
     patch1.Restore();
+    
+    return 0;
 }
 ```
 
