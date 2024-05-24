@@ -1,4 +1,6 @@
 # Platinmods-MemoryPatch
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/MikaCybertron/Platinmods-MemoryPatch/total?style=for-the-badge&logo=windows10&link=https%3A%2F%2Fgithub.com%2FMikaCybertron%2FPlatinmods-MemoryPatch%2Freleases)](https://github.com/MikaCybertron/Platinmods-MemoryPatch/releases)
+
 Platinmods MemoryPatch is a C++ library or template for External Hex Patching into Process Memory which only work for Android 7 and higher. The original source is from <a href="https://github.com/ac3ss0r/ZMemory">ZMemory</a>, but i changed most of the code to make it work like <a href="https://github.com/MJx0/KittyMemory">KittyMemory</a>.
 
 ### Video Preview
